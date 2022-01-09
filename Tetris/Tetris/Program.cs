@@ -11,18 +11,18 @@ namespace Tetris
             Console.SetBufferSize(40, 30);
 
             FigureGenerator generator = new FigureGenerator(20, 0, '*');
-            Figure s = null;
+            Figure s;
 
             while(true)
             {
-                FigureFall(s, generator);
-                //s.Draw();
+                FigureFall(out s, generator);
+                s.Draw();
             }
-                        
+
             Console.ReadLine();
         }
 
-        static void FigureFall(Figure fig, FigureGenerator generator)
+        static void FigureFall(out Figure fig, FigureGenerator generator)
         {
             fig = generator.GetNewFigure();
             fig.Draw();
