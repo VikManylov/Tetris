@@ -7,12 +7,12 @@ namespace Tetris
     class Stick : Figure
     {
 
-        public Stick(int x, int y, char sym)
+        public Stick(int x, int y)
         {
-            Points[0] = new Point(x, y, sym);
-            Points[1] = new Point(x, y+1, sym);
-            Points[2] = new Point(x, y+2, sym);
-            Points[3] = new Point(x, y+3, sym);
+            Points[0] = new Point(x, y);
+            Points[1] = new Point(x, y+1);
+            Points[2] = new Point(x, y+2);
+            Points[3] = new Point(x, y+3);
             Draw();
         }
 

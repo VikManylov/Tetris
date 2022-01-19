@@ -13,21 +13,10 @@ namespace Tetris
         {
             foreach (Point p in Points)
             {
-                p.Draw();
+                DrawerProvier.Drawer.DrawPoint(p.X, p.Y);
             }
         }
-
-        //public void Move(Direction dir)
-        //{
-        //    Hide();
-        //    foreach(Point p in points)
-        //    {                
-        //        p.Move(dir);
-        //    }
-        //    Draw();
-        //}
-
-
+                
         internal Result TryMove(Direction dir)
         {
             Hide();
@@ -107,7 +96,7 @@ namespace Tetris
         {
             foreach(Point p in Points)
             {
-                p.Hide();
+                DrawerProvier.Drawer.HidePoint(p.X, p.Y);
             }
         }
 
