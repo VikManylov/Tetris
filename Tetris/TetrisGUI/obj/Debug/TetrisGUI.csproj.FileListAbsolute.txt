@@ -1,0 +1,10 @@
+C:\Users\Виктор\Documents\OTUS\Projects\Tetris\Tetris\TetrisGUI\bin\Debug\TetrisGUI.exe.config
+C:\Users\Виктор\Documents\OTUS\Projects\Tetris\Tetris\TetrisGUI\bin\Debug\TetrisGUI.exe
+C:\Users\Виктор\Documents\OTUS\Projects\Tetris\Tetris\TetrisGUI\bin\Debug\TetrisGUI.pdb
+C:\Users\Виктор\Documents\OTUS\Projects\Tetris\Tetris\TetrisGUI\bin\Debug\SmallBasicLibrary.dll
+C:\Users\Виктор\Documents\OTUS\Projects\Tetris\Tetris\TetrisGUI\bin\Debug\SmallBasicLibrary.xml
+C:\Users\Виктор\Documents\OTUS\Projects\Tetris\Tetris\TetrisGUI\obj\Debug\TetrisGUI.csproj.AssemblyReference.cache
+C:\Users\Виктор\Documents\OTUS\Projects\Tetris\Tetris\TetrisGUI\obj\Debug\TetrisGUI.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Documents\OTUS\Projects\Tetris\Tetris\TetrisGUI\obj\Debug\TetrisGUI.csproj.CopyComplete
+C:\Users\Виктор\Documents\OTUS\Projects\Tetris\Tetris\TetrisGUI\obj\Debug\TetrisGUI.exe
+C:\Users\Виктор\Documents\OTUS\Projects\Tetris\Tetris\TetrisGUI\obj\Debug\TetrisGUI.pdb

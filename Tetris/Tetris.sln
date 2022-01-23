@@ -5,9 +5,7 @@ VisualStudioVersion = 16.0.31829.152
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tetris", "Tetris\Tetris.csproj", "{F89DF564-FEF0-4615-96AB-6A9AFEA63024}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\Collections.csproj", "{0B68BC46-425E-4AE0-B732-1071F40513F4}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enums", "Enums\Enums.csproj", "{790F6451-9058-4440-AC10-01DFD5848ECE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TetrisGUI", "TetrisGUI\TetrisGUI.csproj", "{6B8D45EE-E88B-41FA-8DB9-0DAC5571DBF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,14 +17,10 @@ Global
 		{F89DF564-FEF0-4615-96AB-6A9AFEA63024}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F89DF564-FEF0-4615-96AB-6A9AFEA63024}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F89DF564-FEF0-4615-96AB-6A9AFEA63024}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0B68BC46-425E-4AE0-B732-1071F40513F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0B68BC46-425E-4AE0-B732-1071F40513F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0B68BC46-425E-4AE0-B732-1071F40513F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0B68BC46-425E-4AE0-B732-1071F40513F4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{790F6451-9058-4440-AC10-01DFD5848ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{790F6451-9058-4440-AC10-01DFD5848ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{790F6451-9058-4440-AC10-01DFD5848ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{790F6451-9058-4440-AC10-01DFD5848ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B8D45EE-E88B-41FA-8DB9-0DAC5571DBF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B8D45EE-E88B-41FA-8DB9-0DAC5571DBF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B8D45EE-E88B-41FA-8DB9-0DAC5571DBF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B8D45EE-E88B-41FA-8DB9-0DAC5571DBF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
